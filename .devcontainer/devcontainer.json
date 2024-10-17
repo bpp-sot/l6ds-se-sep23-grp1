@@ -7,7 +7,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-toolsai.jupyter-keymap"
+				"ms-toolsai.jupyter-keymap",
+				"ms-vsliveshare.vsliveshare"
 			]
 		}
 	}
